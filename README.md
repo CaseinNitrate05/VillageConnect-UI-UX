@@ -1,6 +1,6 @@
 # 🌾 VillageConnect – UI/UX Design
 
-🔗 **Live Link:** [VillageConnect UI/UX]([https://github.com/CaseinNitrate05/VillageConnect-UI-UX?utm_source=chatgpt.com](https://www.figma.com/design/KE8mvvGxC5l54KHXKrtpny/Village-Connect?node-id=69-287&t=Ny17RvgZ31NBjyOX-1))
+🔗 **Live Link:** [VillageConnect UI/UX]((https://www.figma.com/design/KE8mvvGxC5l54KHXKrtpny/Village-Connect?node-id=69-287&t=Ny17RvgZ31NBjyOX-1))
 
 ## 📌 Overview
 
