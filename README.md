@@ -1,7 +1,5 @@
 # 🌾 VillageConnect – UI/UX Design
 
-🔗 **Live Link:** [VillageConnect UI/UX]((https://www.figma.com/design/KE8mvvGxC5l54KHXKrtpny/Village-Connect?node-id=69-287&t=Ny17RvgZ31NBjyOX-1))
-
 ## 📌 Overview
 
 **VillageConnect** is a user-centric UI/UX design project aimed at empowering rural communities by providing a digital platform to access essential services such as agriculture updates, local markets, government schemes, and community interaction.
