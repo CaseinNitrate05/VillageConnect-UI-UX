@@ -1,10 +1,6 @@
-Here’s a **professional README.md** tailored for your project based on your repo concept and typical VillageConnect UI/UX features 👇 (you can directly copy-paste into GitHub)
-
----
-
 # 🌾 VillageConnect – UI/UX Design
 
-🔗 **GitHub Repository:** [VillageConnect UI/UX](https://github.com/CaseinNitrate05/VillageConnect-UI-UX?utm_source=chatgpt.com)
+🔗 **Live Link:** [VillageConnect UI/UX]([https://github.com/CaseinNitrate05/VillageConnect-UI-UX?utm_source=chatgpt.com](https://www.figma.com/design/KE8mvvGxC5l54KHXKrtpny/Village-Connect?node-id=69-287&t=Ny17RvgZ31NBjyOX-1))
 
 ## 📌 Overview
 
@@ -106,19 +102,6 @@ These features align with common smart village platforms that integrate services
 * Accessibility improvements (voice-based navigation)
 * Backend integration for dynamic data
 * AI-based recommendations for services
-
----
-
-## 🤝 Contribution
-
-Contributions are welcome!
-Feel free to fork the repository and submit pull requests.
-
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
 
 ---
 
